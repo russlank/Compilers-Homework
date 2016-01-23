@@ -1,0 +1,17 @@
+car = {
+		model = "KIA",
+		license = "198783-damascus",
+		distance = 10000,
+		features = {
+			color = "Red",
+			central-lock = "yes",
+			airbag = "yes",
+			shape_style = "sidan"
+			}
+		reparations = {
+			( date = "21-05-2009", description = "firstde scription" ),
+			( date = "12-11-2010", description = "sec onddes cription" ),
+			( date = "11-03-2011", description = "th ird descr ipt ion" )
+			}
+	}
+

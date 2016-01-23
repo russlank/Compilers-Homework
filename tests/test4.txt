@@ -1,0 +1,11 @@
+car = {
+		model = "KIA",
+		license = "198783-damascus",
+		distance = 10000,
+		features = {
+			type = "Sport Car"
+			}
+		reparations = {
+			}
+	}
+
